@@ -16,3 +16,5 @@ My strengths are as following.
 - Angular/NgRx/NgGrid
 - Node/Express/Nest
 - MSSQL/MySQL/Database administrator
+
+Contact Address : senior.webdev92@gmail.com
