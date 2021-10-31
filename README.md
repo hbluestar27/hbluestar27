@@ -13,4 +13,4 @@ With good communication skill, I have high level understanding of business manag
  - Opencart / Nopcommerce / Shopify / Magento / E-commerce
  - Blockchain / Smart contract / dApp / web3js
 
-** Contact : senior.webdev92@gmail.com **
+**Contact : senior.webdev92@gmail.com**
